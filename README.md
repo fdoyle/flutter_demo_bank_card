@@ -5,3 +5,9 @@ https:&#x2F;&#x2F;dribbble.com&#x2F;shots&#x2F;5551358-Day11-Animated-Financial-
 
 my implementation:
 ![](https://github.com/fdoyle/flutter_demo_bank_card/blob/master/bank_card.gif)
+
+
+demonstrates
+* pageview animations
+* hero animations
+* touch detection and hitbox manipulation
